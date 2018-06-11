@@ -1,0 +1,18 @@
+.react-calendar__month-view .react-calendar__month-view__days__day:disabled {
+  color: #e6e6e6;
+  background: #e6e6e6;
+}
+
+.react-calendar__month-view .react-calendar__month-view__days__day--neighboringMonth {
+  color: #e6e6e6;
+  background: #e6e6e6;
+}
+
+.calendarUI {
+  background: green;
+}
+
+.react-calendar__month-view__days__day--weekend {
+  background: yellow;
+  color: black;
+}
